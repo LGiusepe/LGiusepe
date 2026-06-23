@@ -4,7 +4,7 @@
 
 Developer with 3 years of experience across tech, healthcare, and food industry companies. Passionate about building solutions that solve real problems — from mobile apps to corporate automations.
 
-🎓 Computer Science @ UNA BH  ·  💼 Systems Analyst @ Gol Plus  ·  🌎 PT (native) · ES (native) · EN (B1)
+🎓 Computer Science @ UNA BH  ·  💼 Systems Analyst @ Gol Plus  ·  🌎 PT (native) · EN (B1)
 
 ---
 

@@ -18,8 +18,7 @@ Developer with 3 years of experience across tech, healthcare, and food industry 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 

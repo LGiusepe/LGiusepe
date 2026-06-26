@@ -24,9 +24,10 @@ Developer with 3 years of experience across tech, healthcare, and food industry 
 
 ## 🚀 What I'm building
 
-- 📱 **[Finance App](https://github.com/LGiusepe)** — Flutter + Firebase · personal expense tracker
+- 📱 **[Finance App](https://github.com/LGiusepe/Nio_Negocia)** — Python + Jupiter · Bypasses the captcha to input values ​​and replaces API usage
 - 🔔 **[Price Monitor](https://github.com/LGiusepe)** — Python + scraping + Telegram alerts
 - ⚙️ **RPA Automations** — Power Automate + Python in corporate environment
+- ✅ **[Spreadsheet Orchestrator](https://github.com/LGiusepe/OrquestraPlanilhas)** — HTML + Python · Inserts formulas into spreadsheets
 
 ---
 

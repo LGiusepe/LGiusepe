@@ -33,9 +33,9 @@ Developer with 3 years of experience across tech, healthcare, and food industry 
 
 ## 📊 GitHub Stats
 
-![Luigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LGiusepe&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Luigi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LGiusepe&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LGiusepe&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LGiusepe&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 

@@ -40,15 +40,13 @@ Developer with 3 years of experience across tech, healthcare, and food industry 
  
 **Personal projects**
  
-- 📱 **[Finance App](https://github.com/LGiusepe/Nio_Negocia)** — Python + Jupyter · Bypasses the captcha to input values and replaces API usage
+- 📱 **[Website creation Rosso Telecom](https://rossotelecom.com.br)** — Website for an internet service provider
 - 🔔 **[Price Monitor](https://github.com/LGiusepe)** — Python + scraping + Telegram alerts
 - ✅ **[Spreadsheet Orchestrator](https://github.com/LGiusepe/OrquestraPlanilhas)** — HTML + Python · Inserts formulas into spreadsheets
 **Professional work** *(internal — no public repo)*
  
-- 💬 **Conversational flows on WhatsApp** — Bot journeys built on Blip Builder integrated with the WhatsApp Cloud API: interactive message types (location requests, quick replies), approved template management, and handling of the 24h conversation window
-- 🚗 **Fleet & tracking systems integration** — Data flows and troubleshooting around a fleet management platform (SGA/Hinova): billing routines, vehicle status lifecycle, and reconciliation of automated status changes
-- ⚙️ **Corporate RPA & approval workflows** — Power Automate + Python + SharePoint: request/approval pipelines, automated document generation, and Microsoft Graph integrations for mail, calendar, and file operations
-- 🔌 **API integrations for HR & operations systems** — Connecting internal tooling to third-party platforms via authenticated REST APIs
+- 🪙 **Financial Automation** — Automates the monthly closing of IT accounts: retrieves the invoice, fills out the payment authorization, generates the PDF, creates the draft email for the finance department, and marks the item off the checklist.
+- 🚚 **my_truck_app** — A mobile app developed in Flutter, focused on real-time navigation and logistics assistance for truck drivers. The project features dynamic route calculation, high-precision location tracking, and real-time on-screen turn-by-turn instructions.
 ---
  
 ## 📊 GitHub Stats

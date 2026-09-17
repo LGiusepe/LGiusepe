@@ -43,9 +43,10 @@ Developer with 3 years of experience across tech, healthcare, and food industry 
 - 📱 **[Website creation Rosso Telecom](https://rossotelecom.com.br)** — Website for an internet service provider
 - 🔔 **[Price Monitor](https://github.com/LGiusepe)** — Python + scraping + Telegram alerts
 - ✅ **[Spreadsheet Orchestrator](https://github.com/LGiusepe/OrquestraPlanilhas)** — HTML + Python · Inserts formulas into spreadsheets
+
 **Professional work** *(internal — no public repo)*
  
-- 🪙 **Financial Automation** — Automates the monthly closing of IT accounts: retrieves the invoice, fills out the payment authorization, generates the PDF, creates the draft email for the finance department, and marks the item off the checklist.
+- ☁️ **Blip API + Power CRM** — Create a connection to evaluate customers stalled in the funnel and send them a message based on how long they have been stalled, in order to re-engage the lead.
 - 🚚 **my_truck_app** — A mobile app developed in Flutter, focused on real-time navigation and logistics assistance for truck drivers. The project features dynamic route calculation, high-precision location tracking, and real-time on-screen turn-by-turn instructions.
 ---
  
